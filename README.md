@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0078FF&height=250&section=header&text=Vijay SA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0078FF&height=250&section=header&text=Vijay&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Go+Backend+Developer;AI+Enthusiast;Cloud+%7C+Docker+%7C+Kubernetes;Always+Building+Something+Cool"/>
 
@@ -104,7 +104,25 @@ var me = Developer{
 
 ---
 
+# 📈 Contribution Graph
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay0705&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vijay0705&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
 
 # 💻 Coding Profiles
 
@@ -195,7 +213,7 @@ var me = Developer{
 
 &nbsp;&nbsp;
 
-<a href="mailto:ivijaysa@gmail.com">
+<a href="mailto:your-email@example.com">
 
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 
