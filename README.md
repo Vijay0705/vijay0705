@@ -104,25 +104,7 @@ var me = Developer{
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay0705&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vijay0705&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 💻 Coding Profiles
 
