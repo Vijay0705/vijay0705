@@ -247,15 +247,15 @@ while(alive){
 
 ---
 
+
+
 # 🐍 Contribution Snake
 
-> **Coming Soon...**
+<div align="center">
 
-```md
-Enable GitHub Actions to make the snake animation appear here.
-```
+<img src="https://raw.githubusercontent.com/vijay0705/vijay0705/output/github-contribution-grid-snake-dark.svg" />
 
----
+</div>
 
 <div align="center">
 
