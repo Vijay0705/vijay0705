@@ -32,7 +32,7 @@ type Developer struct {
 
 var me = Developer{
     Name:      "Vijay",
-    Education: "B.Tech Information Technology (Honors)",
+    Education: "B.E Computer Science and Engineering (with B.E Honors)",
     Passion: []string{
         "Full Stack Development",
         "Backend Engineering",
