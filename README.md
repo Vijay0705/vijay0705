@@ -195,7 +195,7 @@ var me = Developer{
 
 &nbsp;&nbsp;
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:ivijaysa@gmail.com">
 
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 
